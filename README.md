@@ -1,3 +1,3 @@
 # repo-2
 repo-2
-"I created hese files just for test"
+"I created these files just for test"
